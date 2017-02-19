@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile Suits</string>
+    <string name="imgMS01">MS01</string>
+    <string name="imgMS02">MS02</string>
+    <string name="imgMS03">MS03</string>
+    <string name="imgMS04">MS04</string>
+    <string name="title_activity_mobilesuit04">mobilesuit04</string>
+</resources>
